@@ -1,10 +1,10 @@
 # K60-car
 functions realization of a smart car by K60
-##enviroment
-###platform
+## enviroment
+### platform
 IAR 8.32.4-windows 10
-###lib 
+### lib 
 LPLD_OSKinetis_V3
-###debugger
+### debugger
 J-link
 
